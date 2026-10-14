@@ -1,0 +1,8 @@
+Art and sound assets
+
+The MIT license above covers the source code only. The artwork, images, icons
+and sounds in the assets/ folder (except assets/fonts/) are (c) 2026 Rory and
+are free for personal use only. They may not be redistributed or resold, on
+their own or as part of another product, without permission.
+
+Octoplayer is an independent personal project and is not affiliated with any company.
