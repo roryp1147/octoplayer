@@ -1,0 +1,4 @@
+# only to rebuild the layers / icon from ../art (dev box)
+opencv-python-headless
+pillow
+scipy
